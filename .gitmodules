@@ -2,5 +2,5 @@
 	path = backend
 	url = https://github.com/JoaoPedro1999/megahack-backend.git
 [submodule "mobile"]
-	path = omnistack-mobile
+	path = mobile
 	url = https://github.com/JoaoPedro1999/megahack-mobile.git
